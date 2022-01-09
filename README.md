@@ -8,10 +8,10 @@ Esta práctica se ha realizado bajo el contexto de la asignatura Visualización 
 La actividad ha sido realizada de manera individual por **Eduardo Béjar**.
 
 ## Archivos incluidos
-**index.html** - Página principal de la visualización con gráficas generales.
-**destinos.html** - Página con gráficas sobre destinos.
-**perfil.html** - Página con gráficas sobre perfiles de viajeros.
-**assets/** - Carpeta con recursos y librerías que utiliza el template.
+1. **index.html** - Página principal de la visualización con gráficas generales.
+2. **destinos.html** - Página con gráficas sobre destinos.
+3. **perfil.html** - Página con gráficas sobre perfiles de viajeros.
+4. **assets/** - Carpeta con recursos y librerías que utiliza el template.
 
 ## Dataset utilizado
 - Entradas y Salidas Internacionales, INEC 2020 - https://www.ecuadorencifras.gob.ec/entradas-y-salidas-internacionales/
