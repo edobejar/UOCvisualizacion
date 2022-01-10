@@ -14,6 +14,17 @@ La actividad ha sido realizada de manera individual por **Eduardo Béjar**.
 4. **assets/** - Carpeta con recursos y librerías que utiliza el template.
 5. **datos/** - Carpeta con script de limpieza y preparación, y datasets generados.
 
+## Visualizaciones creadas en Flourish:
+1. Destinos General: https://public.flourish.studio/visualisation/8332465/
+2. Sexo: https://public.flourish.studio/visualisation/8336677/
+3. Edades: https://public.flourish.studio/visualisation/8337849/
+4. Nacionalidades: https://public.flourish.studio/visualisation/8339480/
+5. Ocupaciones: https://public.flourish.studio/visualisation/8338833/
+6. Meses y destinos: https://public.flourish.studio/visualisation/8329931/
+7. Países y ciudades: https://public.flourish.studio/visualisation/8339067/
+8. Ciudades: https://public.flourish.studio/visualisation/8339193/
+9. Puertos de embarque: https://public.flourish.studio/visualisation/8339255/
+
 ## Dataset utilizado
 - Entradas y Salidas Internacionales, INEC 2020 - https://www.ecuadorencifras.gob.ec/entradas-y-salidas-internacionales/
 
