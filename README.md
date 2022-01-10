@@ -13,6 +13,7 @@ La actividad ha sido realizada de manera individual por **Eduardo Béjar**.
 3. **perfil.html** - Página con gráficas sobre perfiles de viajeros.
 4. **assets/** - Carpeta con recursos y librerías que utiliza el template.
 5. **datos/** - Carpeta con script de limpieza y preparación, y datasets generados.
+6. **UOCVisualizacionPresentacion.mp4** - Video de presentación.
 
 ## Visualizaciones creadas en Flourish:
 1. Destinos General: https://public.flourish.studio/visualisation/8332465/
