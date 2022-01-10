@@ -12,6 +12,7 @@ La actividad ha sido realizada de manera individual por **Eduardo Béjar**.
 2. **destinos.html** - Página con gráficas sobre destinos.
 3. **perfil.html** - Página con gráficas sobre perfiles de viajeros.
 4. **assets/** - Carpeta con recursos y librerías que utiliza el template.
+5. **datos/** - Carpeta con script de limpieza y preparación, y datasets generados.
 
 ## Dataset utilizado
 - Entradas y Salidas Internacionales, INEC 2020 - https://www.ecuadorencifras.gob.ec/entradas-y-salidas-internacionales/
